@@ -2,7 +2,11 @@ package echoclient;
 
 /*
  This is the Cleint Side
-
+ 
+ 
+ Travis Haycock   Kingston, Ontario
+ 
+ 
  */
 import java.awt.BorderLayout;
 import java.awt.Color;
