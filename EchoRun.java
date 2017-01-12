@@ -4,7 +4,7 @@ package echoclient;
  This is the Cleint Side
  
  
- Travis Haycock   Kingston, Ontario
+ Travis Haycock 
  
  
  */
